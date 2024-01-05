@@ -18,6 +18,10 @@ venv/Scripts/activate.ps1
 python3 -m venv venv
 source venv/bin/activate
 ```
+To install the library:
+```python
+pip install mysql-connector-python
+```
 Then simply run the ```credent.py``` in the virtual environment which you created by:
 
 ```bash
